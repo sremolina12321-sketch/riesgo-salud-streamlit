@@ -3,7 +3,7 @@
 
 Prototipo académico con datos sintéticos. No es un diagnóstico y no sustituye una decisión profesional.
 
-**Aplicación pública:https://riesgo-salud-app-h2ma5ofnu2j2a5w2oqfk9d.streamlit.app/
+Aplicación pública:https://riesgo-salud-app-h2ma5ofnu2j2a5w2oqfk9d.streamlit.app/
 
 ## Integrantes
 - Roberto Andrés Cortes Castillejo
